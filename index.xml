@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>33的Blog</title>
     <link>https://z55547824zz.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 33的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 16:38:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 17:30:26 +0800</lastBuildDate>
     
 	<atom:link href="https://z55547824zz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Personal Web 操作介绍</title>
+      <link>https://z55547824zz.github.io/post/readme/</link>
+      <pubDate>Fri, 21 Feb 2020 17:30:26 +0800</pubDate>
+      
+      <guid>https://z55547824zz.github.io/post/readme/</guid>
+      <description>Personal Web Personal Web is a simple Hugo template to build a personal website including portfolio and blog sections. It will mainly suit freelancers who want to showcase their work.
+Demo website Installation Inside the folder of your Hugo site run:
+cd themes git clone https://github.com/bjacquemet/personal-web or if you&amp;rsquo;d rather use submodules
+cd themes git submodule add https://github.com/bjacquemet/personal-web.git For more information read the official setup guide of Hugo.
+Screenshots Start building your website You will find help in the exampleSite folder, or you can browse resources on the demo site</description>
+    </item>
     
     <item>
       <title>Git &amp; Github 学习笔记</title>
@@ -28,19 +41,6 @@
   本地仓库与远程仓库的交互。
   作者：你听___ 链接：https://juejin.im/post/5ae072906fb9a07a9e4ce596 来源：掘金 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
     工作目录 暂存区 git 仓库 远程仓库     被Git管理的项目 临时存放被修改的文件 目录用于存放提交记录 远程代码仓库   git init git add git commit git push    Git使用前的配置命令 在使用前告诉git你是谁：</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://z55547824zz.github.io/post/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://z55547824zz.github.io/post/readme/</guid>
-      <description>Personal Web Personal Web is a simple Hugo template to build a personal website including portfolio and blog sections. It will mainly suit freelancers who want to showcase their work.
-Demo website Installation Inside the folder of your Hugo site run:
-cd themes git clone https://github.com/bjacquemet/personal-web or if you&amp;rsquo;d rather use submodules
-cd themes git submodule add https://github.com/bjacquemet/personal-web.git For more information read the official setup guide of Hugo.
-Screenshots Start building your website You will find help in the exampleSite folder, or you can browse resources on the demo site</description>
     </item>
     
   </channel>
